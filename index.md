@@ -1,5 +1,4 @@
 ## Publications 
-<sup>(\* indicates equal contribution)</sup>
 
 ### 2025
 
