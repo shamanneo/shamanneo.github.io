@@ -23,5 +23,5 @@ Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT
 
 ## Awards 
 
-* ULTRRA WACV 2025 Workshop Challenge
+* Unconstrained Large-scale Three-dimensional Reconstruction and Rendering across Altitudes (ULTRRA) WACV 2025 Workshop Challenge  
 3rd place and best outside submission in novel view synthesis
