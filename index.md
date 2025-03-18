@@ -23,7 +23,5 @@ Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT
 
 ## Awards 
 
-### 2025
-
-* ULTRRA WACV Workshop Challenge, 2025  
+* ULTRRA WACV 2025 Workshop Challenge
 3rd place and best outside submission in novel view synthesis
