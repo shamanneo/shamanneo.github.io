@@ -21,7 +21,7 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 * Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
 Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP (2021.09 - 2024.12)
 
-<!-- ## Awards 
+## Honors
 
-* Unconstrained Large-scale Three-dimensional Reconstruction and Rendering across Altitudes (ULTRRA) WACV 2025 Workshop Challenge  
-3rd place and best outside submission in novel view synthesis -->
+* ULTRRA WACV 2025 Workshop Challenge  
+3rd place and best outside submission in novel view synthesis
