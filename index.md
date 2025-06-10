@@ -8,12 +8,6 @@
     * Machine Intelligence Lab (MILab)
     * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team)
 
-## Research Interests
-
-* 3D Computer Vision
-
-* Computer Graphics
-
 ## Publications 
 
 ### 2025
