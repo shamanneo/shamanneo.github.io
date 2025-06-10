@@ -1,13 +1,3 @@
-## Education
-
-* Intergrated Ph.D. in Artificial Intelligence, Yonsei University, Sep 2025 - Sep 2030 (expected)
-    * Computational Intelligence & Photography Lab (CIPLAB)
-    * Advisor: [Seon Joo Kim](https://www.ciplab.kr/members/professor)
-
-* B.S. in Artificial Intelligence, Yong In University, Mar 2021 - Aug 2025 (expected)
-    * Machine Intelligence Lab (MILab)
-    * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team)
-
 ## Publications 
 
 ### 2025
