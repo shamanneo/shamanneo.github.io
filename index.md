@@ -1,3 +1,19 @@
+## Education
+
+* Intergrated Ph.D. in Artificial Intelligence, Yonsei University, Sep 2025 - Sep 2030 (expected)
+    * Computational Intelligence & Photography Lab (CIPLAB)
+    * Advisor: [Seon Joo Kim](https://www.ciplab.kr/members/professor)
+
+* B.S. in Artificial Intelligence, Yong In University, Mar 2021 - Aug 2025 (expected)
+    * Machine Intelligence Lab (MILab)
+    * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team)
+
+## Research Interests
+
+* 3D Computer Vision
+
+* Computer Graphics
+
 ## Publications 
 
 ### 2025
@@ -19,4 +35,4 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 ## Projects 
 
 * Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
-Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP (2021.09 - 2024.12)
+Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP Sep 2021 - Dec 2024
