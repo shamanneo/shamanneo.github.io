@@ -29,4 +29,4 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 ## Projects 
 
 * Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
-Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP Sep 2021 - Dec 2024
+Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP, Sep 2021 - Dec 2024
