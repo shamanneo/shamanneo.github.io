@@ -1,6 +1,20 @@
+## Education
+
+* Intergrated Ph.D. in Artificial Intelligence - Yonsei University, Sep 2025 - Current
+    * Computational Intelligence & Photography Lab (CIPLAB)
+    * Advisor: [Seon Joo Kim](https://www.ciplab.kr/members/professor)
+
+* B.S. in Artificial Intelligence - Yong In University, Mar 2021 - Aug 2025 (expected)
+    * Machine Intelligence Lab (MILab)
+    * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team)
+
 ## Publications 
 
 ### 2025
+
+* Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[comming soon]]()  
+Subin Jeon, In Cho, Junyoung Hong, Seon Joo Kim  
+Under Review
 
 * D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP)  
 Junyoung Hong, Hyeri Yang, Ye Ju Kim, Haerim Kim, Shinwoong Kim, Euna Shim, Kyungjae Lee  
