@@ -1,4 +1,4 @@
-## Education
+<!-- ## Education
 
 * Intergrated Ph.D. in Artificial Intelligence - Yonsei University, Sep 2025 - Current
     * Computational Intelligence & Photography Lab (CIPLAB)
@@ -6,13 +6,13 @@
 
 * B.S. in Artificial Intelligence - Yong In University, Mar 2021 - Aug 2025 (expected)
     * Machine Intelligence Lab (MILab)
-    * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team)
+    * Advisor: [Kyungjae Lee](https://milab.yongin.ac.kr/team) -->
 
 ## Publications 
 
 ### 2025
 
-* Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[comming soon]]()  
+* Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[paper]](https://arxiv.org/abs/2507.12336) [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d)  
 Subin Jeon, In Cho, Junyoung Hong, Seon Joo Kim  
 Under Review
 
