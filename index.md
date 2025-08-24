@@ -4,7 +4,7 @@
     * Computational Intelligence & Photography Lab (CIPLAB)
     * Advisor: Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor)
 
-* B.S. in Artificial Intelligence - Yong In University, Mar 2021 - Aug 2025 (expected)
+* B.S. in Artificial Intelligence - Yong In University, Mar 2021 - Aug 2025
     * Machine Intelligence Lab (MILab)
     * Advisor: Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team)
 
