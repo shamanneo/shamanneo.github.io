@@ -34,7 +34,7 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 ### 2022
 
 * A screen of slide detection method using deep learning-based segmentation and Hough transform [[paper]](https://ieeexplore.ieee.org/abstract/document/9894959)  
-Junyoung Hong*, Sunguk Jung*, Yongwoo Lee, Hyeonbeom Heo, Hyeri Yang, Hayeon Kim, Kyungjae Lee  
+Junyoung Hong\*, Sunguk Jung\*, Yongwoo Lee, Hyeonbeom Heo, Hyeri Yang, Hayeon Kim, Kyungjae Lee  
 International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2022
 
 ## Projects 
