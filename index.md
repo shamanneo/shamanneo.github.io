@@ -1,6 +1,6 @@
 ## Education
 
-* Intergrated Ph.D. in Artificial Intelligence - Yonsei University, Sep 2025 - Current
+* Integrated M.S./Ph.D. in Artificial Intelligence - Yonsei University, Sep 2025 - Current
     * Computational Intelligence & Photography Lab (CIPLAB)
     * Advisor: Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor)
 
@@ -9,6 +9,7 @@
     * Advisor: Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team)
 
 ## Publications 
+<sup>(\* indicates equal contribution)</sup>
 
 ### 2025
 
@@ -29,6 +30,12 @@ The Journal of The Korea Institute of Electronic Communication Sciences (KIECS),
 * Patch Regularization in Visual State Space Model [[paper]](https://ieeexplore.ieee.org/document/10628393)  
 Junyoung Hong, Hyeri Yang, Ye Ju Kim, Shinwoong Kim, Kyungjae Lee  
 International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2024
+
+### 2022
+
+* A screen of slide detection method using deep learning-based segmentation and Hough transform [[paper]](https://ieeexplore.ieee.org/abstract/document/9894959)  
+Junyoung Hong*, Sunguk Jung*, Yongwoo Lee, Hyeonbeom Heo, Hyeri Yang, Hayeon Kim, Kyungjae Lee  
+International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2022
 
 ## Projects 
 
