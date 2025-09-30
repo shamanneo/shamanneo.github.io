@@ -41,9 +41,3 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 
 * Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
 Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP, Sep 2021 - Dec 2024
-
-    * Development of Instance Segmentation Method for Mobile Devices
-
-    * Development of Semantic Segmentation Method for Fine-Grained Scene Understanding
-
-    * Development of Dynamic Novel View Synthesis Method for Expressive 3D Human Avatar
