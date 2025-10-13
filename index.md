@@ -1,6 +1,6 @@
 ## Education
 
-* Ph.D. in Artificial Intelligence, Yonsei University
+* Ph.D. in Artificial Intelligence, Yonsei University, Current
     * Computational Intelligence & Photography Lab
     * Advisor: Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor)
 
@@ -47,6 +47,5 @@ Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT
 * 3rd place and the Best Outside Submission at WACV 2025 Workshop Challenge  
 Unconstrained Large-scale Three-dimensional Reconstruction and Rendering across Altitudes (ULTRRA)
 
-<!-- * Outstanding Research Scholarship, Yong In University (2024) -->
-
-<!-- * Dean’s List - Yong In University (2021, 2023, 2024) -->
+* Specical Scholarship by the Dean of the College for Outstanding Research Achievement   
+Yong In University, 2024
