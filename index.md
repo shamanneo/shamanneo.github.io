@@ -39,13 +39,10 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 
 ## Projects 
 
-* **Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology**   
+* Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
 Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP, Sep 2021 - Dec 2024
 
 ## Honors
 
 * 3rd place and the Best Outside Submission at WACV 2025 Workshop Challenge  
 Unconstrained Large-scale Three-dimensional Reconstruction and Rendering across Altitudes (ULTRRA)
-
-* Specical Scholarship by the Dean of the College for Outstanding Research Achievement   
-Yong In University, 2024
