@@ -27,7 +27,7 @@ IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
 Junyoung Hong, Kyungjae Lee  
 The Journal of The Korea Institute of Electronic Communication Sciences (KIECS), 2024
 
-* Patch Regularization in Visual State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10628393)  
+* Patch Regularization in Visual State Space Model [[paper]](https://ieeexplore.ieee.org/document/10628393)  
 Junyoung Hong, Hyeri Yang, Ye Ju Kim, Shinwoong Kim, Kyungjae Lee  
 International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2024
 
