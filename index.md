@@ -14,7 +14,7 @@
 ### 2025
 
 * Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[paper]](https://arxiv.org/abs/2507.12336) [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d)  
-Subin Jeon, In Cho, Junyoung Hong, Seon Joo Kim  
+Subin Jeon, In Cho, Junyoung Hong, Woong Oh Cho, Seon Joo Kim  
 Under Review
 
 * D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP)  
