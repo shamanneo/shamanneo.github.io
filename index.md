@@ -1,9 +1,9 @@
 ## Education
 
-* Ph.D. in Artificial Intelligence, Yonsei University | Advisor: Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor)
+* Ph.D. in Artificial Intelligence, Yonsei University, Advisor: Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor)
     * 2025-Present
 
-* B.S. in Artificial Intelligence, Yong In University | Advisor: Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team)
+* B.S. in Artificial Intelligence, Yong In University, Advisor: Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team)
     * 2021-2025
 
 ## Publications 
