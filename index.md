@@ -2,7 +2,7 @@
 
 I'm a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor).  
 
-Previously, I obtained my Bachelor's degree in artificial intelligence at Yong In University and was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
+Previously, I obtained my Bachelor's degree in artificial intelligence at Yong In University. I was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
 
 My current research focuses on 3D computer vision, with specific interests in neural rendering and multi-view geometry. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
