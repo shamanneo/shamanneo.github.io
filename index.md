@@ -6,8 +6,6 @@ Previously, I obtained my Bachelor's degree in artificial intelligence at Yong I
 
 My current research focuses on 3D computer vision, with specific interests in neural rendering and multi-view geometry. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
----
-
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
