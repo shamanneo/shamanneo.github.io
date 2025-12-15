@@ -15,7 +15,7 @@ My current research focuses on 3D computer vision, with specific interests in ne
 Subin Jeon, In Cho, Junyoung Hong, Woong Oh Cho, Seon Joo Kim  
 Preprint
 
-* D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP) [[news]](https://www.yonginilbo.com/news/article.html?no=106114)  
+* D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP)    
 Junyoung Hong, Hyeri Yang, Ye Ju Kim, Haerim Kim, Shinwoong Kim, Euna Shim, Kyungjae Lee  
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
 
