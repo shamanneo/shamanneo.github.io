@@ -1,10 +1,10 @@
 ## Summary
 
-I'm a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor).  
+Junyoung Hong is a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor).  
 
-I obtained my Bachelor's degree in artificial intelligence at Yong In University. I was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
+He obtained his Bachelor's degree in artificial intelligence at Yong In University. He was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
 
-My current research focuses on 3D computer vision, with specific interests in dynamic neural rendering and multi-view geometry. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
+His current research focuses on 3D computer vision, with specific interests in dynamic neural rendering and multi-view geometry. He is always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
@@ -17,7 +17,7 @@ Preprint
 
 * D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP)    
 Junyoung Hong, Hyeri Yang, Ye Ju Kim, Haerim Kim, Shinwoong Kim, Euna Shim, Kyungjae Lee  
-IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025  
 
 ### 2024
 
@@ -44,3 +44,5 @@ Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT
 
 * 3rd place and the Best Outside Submission at WACV 2025 Workshop Challenge  
 Unconstrained Large-scale Three-dimensional Reconstruction and Rendering across Altitudes (ULTRRA)
+
+* Dean's Outstanding Research Scholarship, Yong In University, 2024
