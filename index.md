@@ -9,11 +9,13 @@ His current research focuses on 3D computer vision, with specific interests in d
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
 
-### 2025
+### 2026
 
 * Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d) [[paper]](https://arxiv.org/abs/2507.12336)  
 Subin Jeon, In Cho, **Junyoung Hong**, Woong Oh Cho, Seon Joo Kim  
 Preprint
+
+### 2025
 
 * D2FP: Learning Implicit Prior for Human Parsing [[paper]](https://openaccess.thecvf.com/content/WACV2025/html/Hong_D2FP_Learning_Implicit_Prior_for_Human_Parsing_WACV_2025_paper.html) [[code]](https://github.com/cvlab-yongin/D2FP)    
 **Junyoung Hong**, Hyeri Yang, Ye Ju Kim, Haerim Kim, Shinwoong Kim, Euna Shim, Kyungjae Lee  
