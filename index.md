@@ -13,7 +13,7 @@ His current research focuses on 3D computer vision, with specific interests in d
 
 * Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d) [[paper]](https://arxiv.org/abs/2507.12336)  
 Subin Jeon, In Cho, **Junyoung Hong**, Woong Oh Cho, Seon Joo Kim  
-Preprint
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
 
 ### 2025
 
