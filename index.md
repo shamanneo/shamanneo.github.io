@@ -1,10 +1,10 @@
-## Summary
+## Bio
 
-Junyoung Hong is a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor).  
+I'm a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Joo Kim](https://www.ciplab.kr/members/professor).  
 
-He obtained his Bachelor's degree in artificial intelligence at Yong In University. He was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
+I obtained my Bachelor's degree in artificial intelligence at Yong In University. I was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
 
-His current research focuses on 3D computer vision, with specific interests in dynamic neural rendering and multi-view geometry. He is always open to academic collaborations and networking; please feel free to reach out if you’re interested.
+My current research focuses on 3D computer vision, with specific interests in 4D scene from casual monocular videos. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
 ## Publications 
 <sup>(\* indicates equal contribution)</sup>
@@ -40,8 +40,8 @@ International Technical Conference on Circuits/Systems, Computers and Communicat
 
 ## Projects 
 
-* Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology   
-Electronics and Telecommunications Research Institute (ETRI) grant funded by ICT RD program of MSIT/IITP, Sep 2021 - Dec 2024
+* **Development of Real·Virtual Environmental Analysis Based Adaptive Interaction Technology**   
+Electronics and Telecommunications Research Institute (**ETRI**) grant funded by ICT RD program of MSIT/IITP, Sep 2021 - Dec 2024
 
 ## Honors
 
