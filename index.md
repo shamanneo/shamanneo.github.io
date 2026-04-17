@@ -11,6 +11,10 @@ My current research focuses on 3D computer vision, with specific interests in cr
 
 ### 2026
 
+* **AvatarMoE: Decomposing Non-Rigid Deformation with Part-aware Experts for 3DGS Avatars** [[paper]]() [[code]]()    
+Hyeri Yang, **Junyoung Hong**, Shinwoong Kim, Kyungjae Lee  
+Computers & Graphics, 2026
+
 * **Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors** [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d) [[paper]](https://arxiv.org/abs/2507.12336)  
 Subin Jeon, In Cho, **Junyoung Hong**, Woong Oh Cho, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
