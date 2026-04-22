@@ -11,7 +11,7 @@ My current research focuses on 3D computer vision, with specific interests in cr
 
 ### 2026
 
-* **AvatarMoE: Decomposing Non-Rigid Deformation with Part-aware Experts for 3DGS Avatars** [[paper]]() [[code]]()    
+* **AvatarMoE: Decomposing Non-Rigid Deformation with Part-aware Experts for 3DGS Avatars** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000683) [[code]](https://github.com/milab-yongin/AvatarMoE)    
 Hyeri Yang, **Junyoung Hong**, Shinwoong Kim, Kyungjae Lee  
 Computers & Graphics, 2026
 
