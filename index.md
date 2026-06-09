@@ -15,7 +15,7 @@ My current research focuses on 3D computer vision, with specific interests in cr
 Hyeri Yang, **Junyoung Hong**, Shinwoong Kim, Kyungjae Lee  
 Computers & Graphics, 2026
 
-* **Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors** [[project]](https://sites.google.com/yonsei.ac.kr/subinjeon/projects/keydiff3d) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Jeon_Unsupervised_Monocular_3D_Keypoint_Discovery_from_Multi-View_Diffusion_Priors_CVPR_2026_paper.html)  
+* **Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors** [[project]](https://subin6.github.io/keydiff3d-project/) [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Jeon_Unsupervised_Monocular_3D_Keypoint_Discovery_from_Multi-View_Diffusion_Priors_CVPR_2026_paper.html)  
 Subin Jeon, In Cho, **Junyoung Hong**, Woong Oh Cho, Seon Joo Kim  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026
 
