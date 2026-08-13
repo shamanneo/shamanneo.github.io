@@ -7,7 +7,6 @@ I obtained my Bachelor's degree in artificial intelligence at Yong In University
 My current research focuses on 3D computer vision, with specific interests in 4D reconstruction and understanding from monocular videos. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
 ## Publications 
-<sup>(\* indicates equal contribution)</sup>
 
 ### 2026
 
