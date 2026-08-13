@@ -8,6 +8,8 @@ My current research focuses on 3D computer vision, with specific interests in 4D
 
 ## Publications 
 
+<sup>(\* indicates equal contribution)</sup>
+
 ### 2026
 
 * **AvatarMoE: Decomposing Non-Rigid Deformation with Part-aware Experts for 3DGS Avatars** [[project]](https://codinghye.github.io/AvatarMoE/) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000683) [[code]](https://github.com/milab-yongin/AvatarMoE)    
