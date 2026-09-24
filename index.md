@@ -12,10 +12,6 @@ My research focuses on spatial intelligence in streaming videos. I'm always open
 
 ### 2026
 
-* **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]]() [[paper]]() [[code]]()    
-Jeonghwan Cho, Minsu Kim, **Junyoung Hong**, Seon Joo Kim  
-Neural Information Processing Systems (**NeurIPS**), 2026
-
 * **AvatarMoE: Decomposing Non-Rigid Deformation with Part-aware Experts for 3DGS Avatars** [[project]](https://codinghye.github.io/AvatarMoE/) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0097849326000683) [[code]](https://github.com/milab-yongin/AvatarMoE)    
 Hyeri Yang, **Junyoung Hong**, Shinwoong Kim, Kyungjae Lee  
 Computers & Graphics, 2026
