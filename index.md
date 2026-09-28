@@ -12,7 +12,7 @@ My research focuses on spatial intelligence in streaming videos. I'm always open
 
 ### 2026
 
-* **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]]() [[paper]]() [[code]]()    
+* **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]](https://jhxcho.github.io/voda/) [[paper]]() [[code]](https://github.com/jhxcho/voda)    
 Jeonghwan Cho, Minsu Kim, **Junyoung Hong**, Seon Joo Kim  
 Neural Information Processing Systems (**NeurIPS**), 2026  
 
