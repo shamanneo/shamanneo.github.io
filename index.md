@@ -4,7 +4,7 @@ I'm a Ph.D. student at Yonsei University under the supervision of Prof. [Seon Jo
 
 I obtained my Bachelor's degree in artificial intelligence at Yong In University. I was an undergraduate research assistant at the Machine Intelligence Lab, supervised by Prof. [Kyungjae Lee](https://milab.yongin.ac.kr/team).
 
-My research focuses on spatial intelligence in streaming videos. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
+My ultimate research goal is to develop general **visual-spatial memory** for robotics and embodied AI. I'm always open to academic collaborations and networking; please feel free to reach out if you’re interested.
 
 ## Publications 
 
