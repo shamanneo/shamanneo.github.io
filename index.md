@@ -12,7 +12,7 @@ My ultimate research goal is to develop general **visual-spatial memory** for ro
 
 ### 2026
 
-* **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]](https://jhxcho.github.io/voda/) [[paper]]() [[code]](https://github.com/jhxcho/voda)    
+* **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]](https://jhxcho.github.io/voda/) [[paper]](https://arxiv.org/abs/2611.21383) [[code]](https://github.com/jhxcho/voda)    
 Jeonghwan Cho, Minsu Kim, **Junyoung Hong**, Seon Joo Kim  
 Neural Information Processing Systems (**NeurIPS**), 2026  
 
