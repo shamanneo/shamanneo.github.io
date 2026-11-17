@@ -10,6 +10,12 @@ My ultimate research goal is to develop general **visual-spatial memory** for ro
 
 <sup>(\* indicates equal contribution)</sup>
 
+### 2027
+
+* **Thinking in Streams: Proactive Spatial Reasoning with Vision-Language Models** [[project]]() [[paper]]() [[code]]()    
+**Junyoung Hong**, Minsu Kim, Jaehyun Kim, Jeonghwan Cho, Jiwoo Lee, Seon Joo Kim  
+Preprint, 2027  
+
 ### 2026
 
 * **The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation** [[project]](https://jhxcho.github.io/voda/) [[paper]](https://arxiv.org/abs/2611.21383) [[code]](https://github.com/jhxcho/voda)    
