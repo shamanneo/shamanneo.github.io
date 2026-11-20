@@ -12,7 +12,7 @@ My ultimate research goal is to develop general **visual-spatial memory** for ro
 
 ### 2027
 
-* **Thinking in Streams: Proactive Spatial Reasoning with Vision-Language Models** [[project]]() [[paper]]() [[code]](https://github.com/shamanneo/prospace)    
+* **Thinking in Streams: Proactive Spatial Reasoning with Vision-Language Models** [[project]]() [[paper]](https://arxiv.org/abs/2611.25865) [[code]](https://github.com/shamanneo/prospace)    
 **Junyoung Hong**, Minsu Kim, Jaehyun Kim, Jeonghwan Cho, Jiwoo Lee, Seon Joo Kim  
 Preprint, 2027  
 
